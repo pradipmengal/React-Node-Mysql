@@ -1,4 +1,4 @@
-# Docker MySQL Node.js React.js App
+#. Docker MySQL Node.js React.js App
 
 ![App](https://github.com/madhurajayashanka/docker-mysql-nodejs-reactjs-app/raw/main/Thumbnail.png)
 
